@@ -22,7 +22,7 @@ body {
 .my-profession {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 17px;
   color: #000000;
   margin: 0 0 18px 0;
@@ -34,7 +34,7 @@ body {
   font-size: 45px;
   line-height: 55px;
   color: #000000;
-  margin: 0 0 28px 0;
+  margin: 0 0 24px 0;
 }
 
 .my-descr {
@@ -42,12 +42,12 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #383737;
   width: 525px;
 }
 
 .about-my-container {
-  margin-bottom: 64px;
+  margin-bottom: 54px;
 }
 
 /* Projects */
@@ -57,7 +57,7 @@ body {
   font-size: 22px;
   line-height: 27px;
   color: #000000;
-  margin: 0 0 8px 0;
+  margin: 0 0 10px 0;
 }
 
 .project-item {
@@ -99,7 +99,7 @@ body {
   margin-bottom: 44px;
 }
 
-.work-experience-posion {
+.work-experience-position {
   font-family: "Montserrat";
   font-style: normal;
   font-weight: 700;
@@ -107,14 +107,17 @@ body {
   line-height: 20px;
   color: #000000;
   margin: 0;
+  margin-bottom: -12px;
+ 
 }
 
 .work-experience-place {
-  margin-bottom: 16px;
+  margin-bottom: 18px;
 }
 
-.work-experience-coompany {
-  color: #6d9bf5;
+.work-experience-company {
+  color: #4372d2;
+   margin-bottom: -2px;
 }
 
 .work-period {
@@ -122,8 +125,8 @@ body {
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
-  margin: 12px 0 8px 0;
+  color: #615f5f;
+  margin: 10px 0 8px 0;
 }
 
 .text-divider {
@@ -135,7 +138,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #414141;
 }
 
 .work-duties-list {
@@ -174,13 +177,14 @@ body {
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #6f6d6d;
 }
 
 /* Sadebar */
 .sadebar {
   width: 370px;
-  background: #e0ebfe;
+  /* background: #cbcdcff2; */
+  background: #f0ead5;
 }
 
 .my-photo {
@@ -218,7 +222,7 @@ body {
   margin: 0;
 }
 
-.contacts-namber {
+.contacts-number {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
@@ -231,7 +235,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #2979ff;
+  color: #276fec;
 }
 
 /* Skills */
