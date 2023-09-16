@@ -22,7 +22,8 @@ body {
 
 /* Main content */
 .main-content {
-  padding: 88px;
+  /* padding: 88px; */
+  padding: 50px 88px 88px 88px;
 
 
 }
@@ -53,6 +54,7 @@ body {
   line-height: 24px;
   color: #383737;
   width: 525px;
+  
 }
 
 .about-my-container {
@@ -84,6 +86,7 @@ body {
 
 .projects-container {
   margin-bottom: 40px;
+  width: 500px;
 }
 
 .project-item-descr {
@@ -92,6 +95,7 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: #595959;
+ 
 }
 
 .project-item-link {
@@ -101,6 +105,7 @@ body {
   line-height: 24px;
   text-decoration-line: underline;
   color: #005fff;
+  
 }
 
 /* Work experience */
